@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewData["Title"] - Ekin Yaldız</title>
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700,900' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700" rel="stylesheet">
+
+
+	<link rel="stylesheet" href="/css/animate.css">
+	
+	<link rel="stylesheet" href="/css/icomoon.css">
+	
+	<link rel="stylesheet" href="/css/bootstrap.css">
+	
+
+
+	<link rel="stylesheet" href="/css/style.css">
+	<link href="//cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+	<script src="/js/modernizr-2.6.2.min.js"></script>
+</head>
+<body class="container">
+
+	<header id="fh5co-header" role="banner">
+		<div class="container text-center">
+		<div id="fh5co-logo">
+					<a href="/"><img src="/images/deneme3.png" width="500" ></a>
+				</div>
+			<nav>
+				<ul>
+					<li><a href="/">Anasayfa</a></li>
+					<li><a href="/hakkinda">Hakkımda</a></li>
+					<li><a href="mailto:yaldizekin@gmail.com">Email</a></li>
+					<li><a href="https://github.com/yaldizekin" target="_blank">Github</a></li>
+					<li><a href="https://www.linkedin.com/in/ekin-yaldiz-980672149/" target="_blank">Linkedin</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+	<div class="container">
+	
+	@RenderBody()
+	</div>
+			
+	
+	<footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+		<div class="col-md-4 d-flex align-items-center">
+			<a href="/" class="mb-3 me-2 mb-md-0 text-body-secondary text-decoration-none lh-1">
+				<svg class="bi" width="30" height="24"><use xlink:href="#bootstrap"></use></svg>
+			</a>
+			<span class="mb-3 mb-md-0 text-body-secondary">© 2024 </span>
+		</div>
+
+		<ul class="nav col-md-4 justify-content-center list-unstyled d-flex">
+			<li class="ms-3"><a class="text-body-secondary" href="https://github.com/yaldizekin" target="_blank"><i class="icon-github2"></i></a></li>
+			<li class="ms-3"><a class="text-body-secondary" href="https://www.linkedin.com/in/ekin-yaldiz-980672149/" target="_blank"><i class="icon-linkedin2"></i></a></li>			
+		</ul>
+	</footer>
+
+
+
+
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/jquery.masonry.min.js"></script>
+	<script src="/js/respond.min.js"></script>
+	<script src="/js/main.js"></script>
+	<script src="//cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js" defer></script>
+	@RenderSection("Script", false)
+	@RenderSection("Scripts", false)
+</body>
+</html>

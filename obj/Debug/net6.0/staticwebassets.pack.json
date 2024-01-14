@@ -1,0 +1,545 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Portfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Portfolio.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\fonts\\icomoon\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\images\\EkinYaldiz.jpg",
+      "PackagePath": "staticwebassets\\images\\EkinYaldiz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\images\\deneme3.png",
+      "PackagePath": "staticwebassets\\images\\deneme3.png"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\2f3c8e47-956b-4f14-9fda-dfac030717bd.png",
+      "PackagePath": "staticwebassets\\img\\2f3c8e47-956b-4f14-9fda-dfac030717bd.png"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\3a53a857-f483-4e24-8582-597b52d7cd39.png",
+      "PackagePath": "staticwebassets\\img\\3a53a857-f483-4e24-8582-597b52d7cd39.png"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\3c6b1660-890b-4d9f-9134-111ef1eecff3.png",
+      "PackagePath": "staticwebassets\\img\\3c6b1660-890b-4d9f-9134-111ef1eecff3.png"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\3c7e593b-7219-4c9f-9dc0-7d8f933d2cfa.png",
+      "PackagePath": "staticwebassets\\img\\3c7e593b-7219-4c9f-9dc0-7d8f933d2cfa.png"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\58da7441-24ce-4dde-a8e1-7bbccee64866.jpg",
+      "PackagePath": "staticwebassets\\img\\58da7441-24ce-4dde-a8e1-7bbccee64866.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\5d0eee41-7ae7-4681-b453-801d2c47649e.png",
+      "PackagePath": "staticwebassets\\img\\5d0eee41-7ae7-4681-b453-801d2c47649e.png"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\633ba1a5-4edd-4750-a342-4213cdfdeada.png",
+      "PackagePath": "staticwebassets\\img\\633ba1a5-4edd-4750-a342-4213cdfdeada.png"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\74e99718-7b1b-4699-8a66-2c7f89459085.jpg",
+      "PackagePath": "staticwebassets\\img\\74e99718-7b1b-4699-8a66-2c7f89459085.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\75bf492d-183e-43f8-a4ab-e953f997440e.png",
+      "PackagePath": "staticwebassets\\img\\75bf492d-183e-43f8-a4ab-e953f997440e.png"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\8c039068-13ba-445f-a996-62845bb12fdc.png",
+      "PackagePath": "staticwebassets\\img\\8c039068-13ba-445f-a996-62845bb12fdc.png"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\b32db4d4-75d4-42d8-8b63-e29581755b30.png",
+      "PackagePath": "staticwebassets\\img\\b32db4d4-75d4-42d8-8b63-e29581755b30.png"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\d4617885-22a0-4360-b064-fbf096fc9f52.png",
+      "PackagePath": "staticwebassets\\img\\d4617885-22a0-4360-b064-fbf096fc9f52.png"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\fe3889b6-4d1b-4d75-b041-165c10f43be8.jpg",
+      "PackagePath": "staticwebassets\\img\\fe3889b6-4d1b-4d75-b041-165c10f43be8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\img\\img_1.jpg",
+      "PackagePath": "staticwebassets\\img\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\js\\jquery.masonry.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.masonry.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\js\\respond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\.DS_Store",
+      "PackagePath": "staticwebassets\\sass\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\_bootstrap-compass.scss",
+      "PackagePath": "staticwebassets\\sass\\_bootstrap-compass.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\_bootstrap-mincer.scss",
+      "PackagePath": "staticwebassets\\sass\\_bootstrap-mincer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\_bootstrap-sprockets.scss",
+      "PackagePath": "staticwebassets\\sass\\_bootstrap-sprockets.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_alerts.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_badges.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_button-groups.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_button-groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_component-animations.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_component-animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_glyphicons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_glyphicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_input-groups.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_input-groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_labels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_modals.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_navs.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_normalize.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_normalize.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_pager.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_pager.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_panels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_panels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_popovers.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_progress-bars.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_progress-bars.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_responsive-embed.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_responsive-embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_responsive-utilities.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_responsive-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_scaffolding.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_scaffolding.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_theme.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_thumbnails.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_thumbnails.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\_wells.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_wells.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_alerts.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_center-block.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_center-block.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_hide-text.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_hide-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_labels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_opacity.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_opacity.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_panels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_panels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_progress-bar.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_progress-bar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_reset-filter.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_reset-filter.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_responsive-visibility.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_responsive-visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_tab-focus.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_tab-focus.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_text-overflow.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_text-overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\ekin\\Desktop\\a\\Portfolio\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Portfolio.props",
+      "PackagePath": "build\\Portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Portfolio.props",
+      "PackagePath": "buildMultiTargeting\\Portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Portfolio.props",
+      "PackagePath": "buildTransitive\\Portfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

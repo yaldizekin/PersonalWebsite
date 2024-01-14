@@ -1,0 +1,87 @@
+﻿@model IEnumerable<Portfolio.Areas.Admin.Models.Project>
+
+
+<div class="row row-cards">
+    <div class="col-12">
+        <div class="btn-list">
+            <a href="/admin/home/addproject" class="btn btn-primary d-none d-sm-inline-block">
+                <!-- Download SVG icon from http://tabler-icons.io/i/plus -->
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon" width="5" height="5" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none" /><path d="M12 5l0 14" /><path d="M5 12l14 0" /></svg>
+                Yeni Ekle
+            </a>
+        </div>
+        <div class="card">
+            <div class="table">
+                <table class="table table-vcenter table-mobile-md card-table" id="myTable">
+                    <thead>
+                        <tr>
+                            <th>Resim</th>
+                            <th>Başlık</th>
+
+                            <th class="w-1"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var p in Model)
+                        {
+                            <tr>
+                                <td data-label="Resim">
+                                    <img src="~/img/@p.ImagePath" width="300" />
+                                </td>
+                                <td data-label="Başlık">
+                                    <div class="d-flex py-1 align-items-center">
+                                        <div class="flex-fill">
+                                            <div class="font-weight-medium">@p.Title</div>
+                                            <div class="text-muted"><a href="/@p.Slug" target="_blank" class="text-reset">@p.Slug</a></div>
+                                        </div>
+                                    </div>
+                                </td>
+
+                                <td>
+                                    <div class="btn-list flex-nowrap">
+                                        <a href="/admin/home/editproject/@p.Id" class="btn edit">Düzenle</a>
+                                        <a href="#" data-id="@p.Id" class="btn delete">Sil</a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+@section Script {
+
+    <script>
+        $('.delete').click(function (e) {
+            e.preventDefault();
+
+            const that = $(this);
+
+            if (that.hasClass('ajaxOn')) {
+                return;
+            }
+
+            that.addClass('ajaxOn');
+            if (confirm('Silmek istediğine emin misin?')) {
+                // burda ajax olmalı ve ajax sonucu başarılı ise ona göre satır silinmeli
+                $.get('/admin/deleteproject/' + that.data('id'), function (r) {
+                    that.parent().parent().parent().remove();
+                });
+            }
+        });
+    </script>
+     <script type="text/javascript">
+        $(document).ready(function () {
+            $('#myTable').DataTable();
+        });
+    </script>
+}

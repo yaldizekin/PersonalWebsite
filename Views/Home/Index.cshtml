@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Portfolio.Areas.Admin.Models.Project>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var item in Model)
+    {
+        <div class="col">
+            <div class="card h-100 border-0">
+                <a href="@item.Slug">
+                    <img src="~/img/@item.ImagePath" class="card-img-top" width="700">
+                </a>
+                <div class="card-body text-center">
+                    <div class="mb-2">
+                        <h5 class="card-title fs-4" style="font-family:'Gill Sans'">@item.Title</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
